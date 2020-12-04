@@ -53,7 +53,7 @@ I tried three different models and evaluated them based on their Root Mean Squar
 # Model Performance 
 The Boosted Tree model outperformed the other models on the test and validation sets.
 
-Linear Regression: RSME = 16.644
-Random Forest: RSME = 18.03
-Boosted Tree: RSME = 22.71
+- Linear Regression: RSME = 16.644
+- Random Forest: RSME = 18.03
+- Boosted Tree: RSME = 22.71
 
