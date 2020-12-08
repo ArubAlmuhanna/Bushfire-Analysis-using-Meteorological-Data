@@ -47,7 +47,6 @@ Prior to building the modeld, the below steps were completed:
 - Features selection based on EDA. 
 - The dataset was split into train dataset 80% and a test dataset 20%. 
 
-Model Building: 
 I tried three different models and evaluated them based on their Root Mean Square Error (RMSE). I chose RSME because it is a good measure of accuracy and relatively easy to interpret.
 
 # Model Performance 
