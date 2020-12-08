@@ -40,7 +40,7 @@ Below are some highlights of the EDA process:
 
 ![Bushfire Analysis using Meteorological Data ipynb](https://user-images.githubusercontent.com/67848891/101126882-81ecde80-3650-11eb-92d4-fa5f0b6b314a.png)
 
-![Unknown-2](https://user-images.githubusercontent.com/67848891/101126980-ac3e9c00-3650-11eb-9293-84c656fa1aeb.png width="200" height="49" )
+![Bushfire Analysis using Meteorological Data](https://user-images.githubusercontent.com/67848891/101126980-ac3e9c00-3650-11eb-9293-84c656fa1aeb.png)
 
 # Model Building
 Prior to building the modeld, the below steps were completed:  
