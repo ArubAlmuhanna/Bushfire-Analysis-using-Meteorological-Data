@@ -42,6 +42,8 @@ Below are some highlights of the EDA process:
 
 ! [] (https://user-images.githubusercontent.com/67848891/101126980-ac3e9c00-3650-11eb-9293-84c656fa1aeb.png =400x427)
 
+![](https://user-images.githubusercontent.com/67848891/101126980-ac3e9c00-3650-11eb-9293-84c656fa1aeb.png =400x427)
+
 # Model Building
 Prior to building the modeld, the below steps were completed:  
 - Features selection based on EDA. 
