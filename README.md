@@ -38,9 +38,8 @@ Proior to developing my models, I performed a general exploration of the dataset
 
 Below are some highlights of the EDA process: 
 
-![Bushfire Analysis using Meteorological Data ipynb](https://user-images.githubusercontent.com/67848891/101126882-81ecde80-3650-11eb-92d4-fa5f0b6b314a.png)
 
-![](https://user-images.githubusercontent.com/67848891/101126980-ac3e9c00-3650-11eb-9293-84c656fa1aeb.png)
+<a href="url"><img src="https://user-images.githubusercontent.com/67848891/101126882-81ecde80-3650-11eb-92d4-fa5f0b6b314a.png" height="400" width="400" ></a>
 
 <a href="url"><img src="https://user-images.githubusercontent.com/67848891/101126980-ac3e9c00-3650-11eb-9293-84c656fa1aeb.png" height="400" width="400" ></a>
 
