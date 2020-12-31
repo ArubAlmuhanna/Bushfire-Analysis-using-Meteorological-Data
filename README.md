@@ -1,14 +1,15 @@
 # Bushfire Analysis using Meteorological Data : Project Overview 
 
 In this project:
-- Conducted data exploration.
-- Tested and treated outliers.
-- Built a linear regression model.
-- Enhanced the linear regression model using varies teqniques.
-- Built a Random Forest model.
-- Built a Boosted Tree model.
-- Compared the three models and chose the best one in terms of performance. 
-- Highlghted the variable importance using Exploratory Data Analysis (EDA) and Boosted Tree model.
+•	Conducted data exploration.
+•	Tested and treated outliers.
+•	Built a linear regression model.
+•	Enhanced the linear regression model using varies techniques.
+•	Built a Random Forest model.
+•	Built a Boosted Tree model.
+•	Compared the three models and chose the best one in terms of performance.
+•	Highlighted the variable importance using Exploratory Data Analysis (EDA) and Boosted Tree model.
+
 
 # Code and Resources Used
 
