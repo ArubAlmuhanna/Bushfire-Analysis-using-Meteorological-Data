@@ -8,7 +8,7 @@ In this project:
 -	Built a Random Forest model.
 -	Built a Boosted Tree model.
 -	Compared the three models and chose the best one in terms of performance.
--	Highlighted the variable importance using Exploratory Data Analysis (EDA) and Boosted Tree model.
+-	Ranked the features based on importance using Exploratory Data Analysis (EDA) and Boosted Tree model.
 
 
 # Code and Resources Used
