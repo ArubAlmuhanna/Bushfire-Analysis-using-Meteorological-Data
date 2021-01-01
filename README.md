@@ -4,7 +4,7 @@ In this project:
 - Conducted data exploration.
 -	Tested and treated outliers.
 -	Built a linear regression model.
--	Enhanced the linear regression model using varies techniques.
+-	Enhanced the linear regression model using various techniques.
 -	Built a Random Forest model.
 -	Built a Boosted Tree model.
 -	Compared the three models and chose the best one in terms of performance.
